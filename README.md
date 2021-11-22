@@ -15,4 +15,4 @@ This portfolio will highlight some of my python coding abilities. If you have an
 
 ## Some examples of my work
 
-Since embarking on the journey to learn python and become an efficient coder, the [pandas](https://pandasguide.readthedocs.io/en/latest/) package has allowed me to grow comfortable exploring data as a dataframe. Here I use an example of code from an assignment for NESC3505 Fall 2021 to demonstrate how to [read in data using pandas](pandas)
+Since embarking on the journey to learn python and become an efficient coder, the [pandas](https://pandasguide.readthedocs.io/en/latest/) package has allowed me to grow comfortable exploring data as a dataframe. Here I use an example of code from an assignment for NESC3505 Fall 2021 to demonstrate how to [read in data using pandas](pandas.md)
