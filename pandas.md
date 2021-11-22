@@ -4,5 +4,5 @@ The stored data that we work with while coding is typically formated as a csv. H
 
 Below is an example of how I have used the pandas library to read in a csv file, as well as use its arguments and functions to make the data more usable.
 
-!(Assignment3forportfolio.ipynb)
+(Assignment3forportfolio.ipynb)
 
