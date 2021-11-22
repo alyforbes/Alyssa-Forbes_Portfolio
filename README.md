@@ -20,3 +20,8 @@ This portfolio will highlight some of my python coding abilities. If you have an
 Since embarking on the journey to learn python and become an efficient coder, the [pandas](https://pandasguide.readthedocs.io/en/latest/) package has allowed me to grow comfortable exploring data as a dataframe. Here I use an example of code from an assignment for NESC3505 Fall 2021 to demonstrate how to [read in data using pandas](Assignment3forportfolio.ipynb)
 
 One of the many benefits to the pandas library is that it performs code that is similar to what can be used in other languages such as R, as well as excel. Here is an example of [R code](Rforportfolio.ipynb) that I used when working with data off of our server at work. It essentially does that same thing as in my [previous example](Assignment3forportfolio.ipynb) in that it separates the raw data into columns based on the pipe symbol. 
+
+### Visualizing data using _seaborn_
+
+Seeing data visually is one of the most literate aspects of data science because it showcases data in a way that is visually appealing, and that the majority of people can read. Here I use an example of code from an assignment for NESC3505 2021 on [flanker experiment data](https://en.wikipedia.org/wiki/Eriksen_flanker_task) that demonstrates how to use the seaborn package to [visualize data](Assignment_3dup.ipynb).
+
