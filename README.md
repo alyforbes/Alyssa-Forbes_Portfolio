@@ -23,7 +23,6 @@ One of the many benefits to the pandas library is that it performs code that is 
 
 ### Visualizing data using _seaborn_ and _matplotlib_
 
-Seeing data visually is one of the most literate aspects of data science because it showcases data in a way that is visually appealing, and that the majority of people can read. Here I use an example of code from an assignment for NESC3505 2021 on [flanker experiment data](https://en.wikipedia.org/wiki/Eriksen_flanker_task) that demonstrates how to use the seaborn package to [visualize data](Assignment_3dup.ipynb).
+Seeing data visually is one of the most literate aspects of data science because it showcases data in a way that is visually appealing, and that the majority of people can read. Here I use an example of code from an assignment for NESC3505 2021 on [flanker experiment data](https://en.wikipedia.org/wiki/Eriksen_flanker_task) that demonstrates how to use the seaborn package to [visualize data](Visualizingforportfolio.md).
 
-### 
 
